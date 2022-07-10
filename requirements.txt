@@ -1,0 +1,13 @@
+###### Requirements without Version Specifiers ######
+os
+
+###### Requirements with Version Specifiers ######
+numpy == 1.19.5
+pandas == 1.1.5
+xgboost == 1.4.2
+pickle >= 4.0
+sklearn >= 1.0.2
+
+###### Requirements for Plotting ######
+matplotlib >= 3.3.4
+seaborn >= 0.9.0
